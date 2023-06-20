@@ -1,4 +1,4 @@
-[DAILY SCRUM.docx](https://github.com/captainofDogu/Bootcamp2022Example/files/11804950/DAILY.SCRUM.docx)![WhatsApp Image 2023-06-20 at 11 58 55](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/ad2c8dde-5849-4abf-8059-ef91573a06bd)# **Takım İsmi**
+# **Takım İsmi**
 
 (F-58) Catastrophic
 
@@ -66,16 +66,15 @@ Takım senkronizasyonu ve harmonizasyonundan kaynaklı yaşanan sorunlardan dola
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 130 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   
 
-![WhatsApp Image 2023-06-20 at 11 58 55](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/2bc0988c-4ad2-4762-9c6f-2a7cd9f1126a)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
@@ -91,7 +90,6 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
 
 ---
 
@@ -99,11 +97,11 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-  ![247063889-0298b4bc-a7f8-4446-9de5-db298154daee](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/b25727e2-f183-4466-ac2b-c0ce2892a2c7)
+
 
 
 
@@ -123,7 +121,7 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+
 
 ---
 
@@ -133,20 +131,16 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
-- [DAILY SCRUM.docx](https://github.com/captainofDogu/Bootcamp2022Example/files/11804944/DAILY.SCRUM.docx)
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-  ![247063889-0298b4bc-a7f8-4446-9de5-db298154daee (1)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/75b2a0a6-9fc8-4ebf-97d6-4c140d6111ae)
+
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
-  
-![247064375-0b31d2b7-fd7d-40e4-9ce6-bba7c8f1d3dc](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/8ce0fcaf-cf9a-4a74-949b-ff177c843402)
+
 
 
 - **Sprint Review**: 
