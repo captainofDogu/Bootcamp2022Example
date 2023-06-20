@@ -66,7 +66,8 @@ Takım senkronizasyonu ve harmonizasyonundan kaynaklı yaşanan sorunlardan dola
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 130 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- [DAILY SCRUM (1).docx](https://github.com/captainofDogu/Bootcamp2022Example/files/11805186/DAILY.SCRUM.1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
@@ -74,6 +75,9 @@ Takım senkronizasyonu ve harmonizasyonundan kaynaklı yaşanan sorunlardan dola
 
 - **Ürün Durumu**: Ekran görüntüleri:
   
+![247064375-0b31d2b7-fd7d-40e4-9ce6-bba7c8f1d3dc (1)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/7091ea96-2645-46f9-a360-442106645d54)
+
+![247064327-e1bad702-813a-4551-89ed-44a5391a0b1f](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/c6b5e4df-bb97-44a2-aaaa-eeea7a07e40b)
 
 
 - **Sprint Review**: 
@@ -101,12 +105,13 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+![247063889-0298b4bc-a7f8-4446-9de5-db298154daee (2)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/654501d0-dc02-4246-93ea-3b592c2a877e)
 
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Uploading 247064086-0fc7585b-779f-434c-8580-1fe700b3a43a.jpeg…]()
+
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
@@ -131,6 +136,7 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
 
 
 
