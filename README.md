@@ -69,9 +69,15 @@ Takım senkronizasyonu ve harmonizasyonundan kaynaklı yaşanan sorunlardan dola
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 - [DAILY SCRUM (1).docx](https://github.com/captainofDogu/Bootcamp2022Example/files/11805186/DAILY.SCRUM.1.docx)
 
+- ![WhatsApp Image 2023-06-20 at 21 40 48 (1)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/b15f820a-c80f-46bc-9e94-fa5e0bbc7a74)
+
+- ![Uploading WhatsApp Image 2023-06-20 at 21.41.04 (1).jpeg…]()
+
+- ![WhatsApp Image 2023-06-20 at 21 40 08 (1)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/c46b3349-0cec-4680-b254-39d5cfb9b7d3)
+
 - **Sprint board update**: Sprint board screenshotları: 
 
-
+![247063889-0298b4bc-a7f8-4446-9de5-db298154daee (2)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/654501d0-dc02-4246-93ea-3b592c2a877e)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   
@@ -105,7 +111,7 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-![247063889-0298b4bc-a7f8-4446-9de5-db298154daee (2)](https://github.com/captainofDogu/Bootcamp2022Example/assets/109286255/654501d0-dc02-4246-93ea-3b592c2a877e)
+
 
 
 
