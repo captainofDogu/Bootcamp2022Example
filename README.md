@@ -62,6 +62,9 @@ Takım senkronizasyonu ve harmonizasyonundan kaynaklı yaşanan sorunlardan dola
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 130 Puan
 
+- **Sprint Notları** :
+- Ayrıntılar Miroda'dır
+
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 130 ile başlaması gerektiğine karar verildi.
 
